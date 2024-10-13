@@ -14,7 +14,7 @@
             <h2 class="text-center">Prijava</h2>
             <form method="POST" action="#">
                 <div class="form-group">
-                    <label for="username">Korisničko ime</label>
+                    <label for="username">Korisničko ime ili email adresa</label>
                     <input type="text" name="username" class="form-control" required>
                 </div>
                 <div class="form-group">
